@@ -1,3 +1,4 @@
+-- Find data set in the repository 'Nashville Housing Data for Data Cleaning.xlsx' or through this URL: https://www.kaggle.com/tmthyjames/nashville-housing-data
 use vaishnavi1;
 CREATE TABLE `vaishnavi1`.`nashvillehousingdata` (
   `UniqueID` INT NOT NULL,
