@@ -23,8 +23,8 @@ Tools used: SQL, pandas, matplotlib, numpy, seaborn
 Number of SQL queries: 18
 Visualizations used: pie chart, donut chart, bar graph, line chart, boxplot.
 Some of the questions answered:
-                          - Number of films of each rating.
-                          - Total number of unavailable films.
-                          - Total monthly sales.
-                          - Sales of different stores.
-                          - Replacement cost and stock size.
+* Number of films of each rating.
+* Total number of unavailable films.
+* Total monthly sales.
+* Sales of different stores.
+* Replacement cost and stock size.
