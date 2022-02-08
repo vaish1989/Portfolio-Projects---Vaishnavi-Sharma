@@ -17,4 +17,14 @@ Some of the notable questions answers are:
 * How predictable are the house prices in different locations?
 * Cleaning NULLS in 'bathroom' column.
 
-
+### 3> SAKILA DATABASE: Data Analysis and Visualisation ###
+The notebook connects to the SAKILA database and explores the relation between various attributes of different tables in the database with the help of SQL queries and Data visualization.
+Tools used: SQL, pandas, matplotlib, numpy, seaborn
+Number of SQL queries: 18
+Visualizations used: pie chart, donut chart, bar graph, line chart, boxplot.
+Some of the questions answered:
+                          - Number of films of each rating.
+                          - Total number of unavailable films.
+                          - Total monthly sales.
+                          - Sales of different stores.
+                          - Replacement cost and stock size.
